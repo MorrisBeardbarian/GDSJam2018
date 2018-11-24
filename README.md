@@ -34,6 +34,8 @@ Assets used:
 	https://opengameart.org/node/15887
 	
 	https://opengameart.org/content/100-isometric-forbs
+	
+	http://unluckystudio.com/game-art-giveaway-7-top-down-vehicles-sprites-pack/
 
 
 License: MIT
