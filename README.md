@@ -8,9 +8,9 @@ Programs used:
   
 	Paint.Net
   
-  Git
+	Git
   
-  Sublime Text 3
+	Sublime Text 3
 
 Assets used:
 
