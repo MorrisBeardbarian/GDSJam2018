@@ -48,5 +48,7 @@ Assets used:
 	https://www.freepik.com/free-vector/brick-wall-realistic_1537617.htm
 
 	https://www.freepik.com/free-vector/slot-machines-collection_804649.htm
+	
+	https://opengameart.org/content/the-battle-for-wesnoth-water-animation
 
 License: MIT
