@@ -1,0 +1,318 @@
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/StyleSheets/ground_asphalt_new_01.uasset" 0
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/ground_asphalt_new_01_Sprite.uasset" 1
+"D:/UE4 Projects/GDSGameJam/Content/2dSideScroller/Textures/2DBackgroundTile.uasset" 2
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Materials/PrototypingSpriteMaterial.uasset" 3
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/PrototypingSprite.uasset" 4
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/StyleSheets/tile_cobblestones.uasset" 5
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/tile_cobblestones_Sprite.uasset" 6
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 7
+"../../Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset" 8
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/StyleSheets/tree1_4.uasset" 9
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/tree1_4_Sprite.uasset" 10
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/StyleSheets/tree2_1.uasset" 11
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/tree2_1_Sprite.uasset" 12
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/StyleSheets/tree3.uasset" 13
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/tree3_Sprite.uasset" 14
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/tree4.uasset" 15
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/tree6.uasset" 16
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/tree7.uasset" 17
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/tree8.uasset" 18
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/tree9.uasset" 19
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/StyleSheets/Car.uasset" 20
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/Cars/Car_Sprite.uasset" 21
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/StyleSheets/Mini_van.uasset" 22
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/Cars/Mini_van_Sprite.uasset" 23
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/StyleSheets/Police.uasset" 24
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/Cars/Police_Sprite.uasset" 25
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/StyleSheets/taxi.uasset" 26
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/Cars/taxi_Sprite.uasset" 27
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/StyleSheets/truck.uasset" 28
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/Cars/truck_Sprite.uasset" 29
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/RunFrames/Stylesheet_Sprite_0.uasset" 30
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/StyleSheets/hjm-randomized_forbs_02-alpha.uasset" 31
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/Vegetation/hjm-randomized_forbs_02-alpha_Sprite_0.uasset" 32
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/Vegetation/hjm-randomized_forbs_02-alpha_Sprite_1.uasset" 33
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/Vegetation/hjm-randomized_forbs_02-alpha_Sprite_2.uasset" 34
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/Vegetation/hjm-randomized_forbs_02-alpha_Sprite_3.uasset" 35
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/Vegetation/hjm-randomized_forbs_02-alpha_Sprite_4.uasset" 36
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/Vegetation/hjm-randomized_forbs_02-alpha_Sprite_6.uasset" 37
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/Vegetation/hjm-randomized_forbs_02-alpha_Sprite_7.uasset" 38
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Textures/2DBackground.uasset" 39
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Textures/2DBackgroundBlockAtlas.uasset" 40
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Textures/2DCharacter_IdleAnimAtlas.uasset" 41
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Textures/2DCharacter_RunAnimAtlas.uasset" 42
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScrollerBP/Blueprints/InteractibleType.uasset" 43
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScrollerBP/Interactible/CallableEvent.uasset" 44
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScrollerBP/Interactible/Events.uasset" 45
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 46
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScrollerBP/Blueprints/InteractScrollBox.uasset" 47
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScrollerBP/Blueprints/PlayerHUD.uasset" 48
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScrollerBP/Blueprints/GameHUD.uasset" 49
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScrollerBP/Blueprints/InteractibleInterfaceBP.uasset" 50
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScrollerBP/Blueprints/InteractibleTypes.uasset" 51
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScrollerBP/Blueprints/InteractButton.uasset" 52
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/StyleSheets/CharacterStylesheet.uasset" 53
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/IdleFrames/Stylesheet_Sprite_1.uasset" 54
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/RunFrames/Stylesheet_Sprite_2.uasset" 55
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/StyleSheets/CharacterStylesheet_Sprite_0.uasset" 56
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/Moving.uasset" 57
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/Standing.uasset" 58
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset" 59
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/StyleSheets/Audi.uasset" 60
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/Cars/Audi_Sprite.uasset" 61
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/Cars/Audi_Flipbook.uasset" 62
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/StyleSheets/Black_viper.uasset" 63
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/Cars/Black_viper_Sprite.uasset" 64
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/Cars/Black_viper_Flipbook.uasset" 65
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/StyleSheets/Mini_truck.uasset" 66
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/Cars/Mini_truck_Sprite.uasset" 67
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/Cars/Mini_truck_Flipbook.uasset" 68
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/Vegetation/tree3_Sprite.uasset" 69
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScrollerBP/Blueprints/ActionMessages.uasset" 70
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScrollerBP/Blueprints/InteractibleBP.uasset" 71
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScrollerBP/Interactible/TreeInteraction.uasset" 72
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScrollerBP/Interactible/tree3_Sprite_Blueprint.uasset" 73
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScrollerBP/MainMenuBlueprints/MainMenuGameStateBase.uasset" 74
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Textures/4683.uasset" 75
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScrollerBP/MainMenuBlueprints/MainMenuWidget.uasset" 76
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScrollerBP/MainMenuBlueprints/MainMenuHUD.uasset" 77
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScrollerBP/MainMenuBlueprints/MainMenuPlayerController.uasset" 78
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScrollerBP/MainMenuBlueprints/MainMenuMode.uasset" 79
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 80
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 81
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 82
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 83
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 84
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 85
+"../../../Engine/Content/BasicShapes/Cone.uasset" 86
+"../../../Engine/Content/BasicShapes/Cube.uasset" 87
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 88
+"../../../Engine/Content/BasicShapes/Plane.uasset" 89
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 90
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 91
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 92
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 93
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 94
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 95
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 96
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 97
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 98
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 99
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 100
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 101
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 102
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 103
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 104
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 105
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 106
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 107
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 108
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 109
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 110
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 111
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 112
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 113
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 114
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 115
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 116
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 117
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 118
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 119
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 120
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 121
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 122
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 123
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 124
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 125
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 126
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 127
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 128
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 129
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 130
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 131
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 132
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 133
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 134
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 135
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 136
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 137
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 138
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 139
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 140
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 141
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 142
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 143
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 144
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 145
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 146
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 147
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 148
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 149
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 150
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 151
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 152
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 153
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 154
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 155
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 156
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 157
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 158
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 159
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 160
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 161
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 162
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 163
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 164
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 165
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 166
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 167
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 168
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 169
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 170
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 171
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 172
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 173
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 174
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 175
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 176
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 177
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 178
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 179
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 180
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 181
+"../../../Engine/Content/EngineResources/Black.uasset" 182
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 183
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 184
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 185
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 186
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 187
+"../../../Engine/Content/EngineSounds/Master.uasset" 188
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 189
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 190
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 191
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 192
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 193
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 194
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 195
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 196
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 197
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 198
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 199
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 200
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 201
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 202
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 203
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 204
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 205
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 206
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 207
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 208
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 209
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 210
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 211
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 212
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 213
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 214
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 215
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 216
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 217
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 218
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 219
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 220
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 221
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 222
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 223
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 224
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 225
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 226
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 227
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 228
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 229
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 230
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 231
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 232
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 233
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 234
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 235
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 236
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 237
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 238
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 239
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 240
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 241
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScrollerBP/Blueprints/GDSJamPlayerController.uasset" 242
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.uasset" 243
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScrollerBP/Maps/Level_1_BuiltData.uasset" 244
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Materials/tileable_grass_00.uasset" 245
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Materials/tileable_grass_00_Sprite.uasset" 246
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/Buildings/diffus.uasset" 247
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/Buildings/diffus_Sprite.uasset" 248
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/StyleSheets/Ambulance.uasset" 249
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/Cars/Ambulance_Sprite.uasset" 250
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/Floor/ground_asphalt_new_01_Sprite.uasset" 251
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/Floor/tile_cobblestones_Sprite.uasset" 252
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/StyleSheets/ocean01.uasset" 253
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/Water/ocean01_Sprite.uasset" 254
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/StyleSheets/ocean02.uasset" 255
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/Water/ocean02_Sprite.uasset" 256
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/StyleSheets/ocean03.uasset" 257
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/Water/ocean03_Sprite.uasset" 258
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/StyleSheets/ocean04.uasset" 259
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/Water/ocean04_Sprite.uasset" 260
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/StyleSheets/ocean05.uasset" 261
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/Water/ocean05_Sprite.uasset" 262
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/StyleSheets/ocean06.uasset" 263
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/Water/ocean06_Sprite.uasset" 264
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/StyleSheets/ocean07.uasset" 265
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/Water/ocean07_Sprite.uasset" 266
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/StyleSheets/ocean08.uasset" 267
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/Water/ocean08_Sprite.uasset" 268
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/StyleSheets/ocean09.uasset" 269
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/Water/ocean09_Sprite.uasset" 270
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/StyleSheets/ocean10.uasset" 271
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/Water/ocean10_Sprite.uasset" 272
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/StyleSheets/ocean11.uasset" 273
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/Water/ocean11_Sprite.uasset" 274
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/StyleSheets/ocean12.uasset" 275
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/Water/ocean12_Sprite.uasset" 276
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/StyleSheets/ocean13.uasset" 277
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/Water/ocean13_Sprite.uasset" 278
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/StyleSheets/ocean14.uasset" 279
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/Water/ocean14_Sprite.uasset" 280
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/StyleSheets/ocean15.uasset" 281
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/Water/ocean15_Sprite.uasset" 282
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/StyleSheets/ocean16.uasset" 283
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/Water/ocean16_Sprite.uasset" 284
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/StyleSheets/ocean17.uasset" 285
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/Water/ocean17_Sprite.uasset" 286
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/StyleSheets/ocean18.uasset" 287
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/Water/ocean18_Sprite.uasset" 288
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/StyleSheets/ocean19.uasset" 289
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/Water/ocean19_Sprite.uasset" 290
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/StyleSheets/ocean20.uasset" 291
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/Water/ocean20_Sprite.uasset" 292
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/StyleSheets/ocean21.uasset" 293
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/Water/ocean21_Sprite.uasset" 294
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/Ocean.uasset" 295
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/Vegetation/hjm-randomized_forbs_02-alpha_Sprite_5.uasset" 296
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/Vegetation/hjm-randomized_forbs_02-alpha_Sprite_8.uasset" 297
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/Vegetation/tree1_4_Sprite.uasset" 298
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/Vegetation/tree2_1_Sprite.uasset" 299
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/StyleSheets/tree5.uasset" 300
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/Vegetation/tree5_Sprite.uasset" 301
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/Walls/BrickFence.uasset" 302
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/Walls/BrickFence_Sprite.uasset" 303
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/StyleSheets/roof.uasset" 304
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/Walls/roof_Sprite.uasset" 305
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/StyleSheets/RoofCenter.uasset" 306
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/Walls/RoofCenter_Sprite.uasset" 307
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/StyleSheets/RoofCorner.uasset" 308
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/Walls/RoofCorner_Sprite.uasset" 309
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/StyleSheets/RoofInsideCorner.uasset" 310
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/Walls/RoofInsideCorner_Sprite.uasset" 311
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/StyleSheets/RoofSide.uasset" 312
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScroller/Sprites/Walls/RoofSide_Sprite.uasset" 313
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScrollerBP/Maps/Level_1.umap" 314
+"D:/UE4 Projects/GDSGameJam/Content/2DSideScrollerBP/Maps/MainMenu.umap" 315
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 316
+"../../../Engine/Content/Maps/Entry.umap" 317
