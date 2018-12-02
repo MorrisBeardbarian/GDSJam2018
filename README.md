@@ -34,6 +34,21 @@ Assets used:
 	https://opengameart.org/node/15887
 	
 	https://opengameart.org/content/100-isometric-forbs
+	
+	http://unluckystudio.com/game-art-giveaway-7-top-down-vehicles-sprites-pack/
+	
+	https://opengameart.org/content/pipe-surface-dark
+	
+	https://www.freepik.com/free-photo/old-tiles-roof-background_1158089.htm
+	
+	https://opengameart.org/content/tilling-texture-pack-19
+	
+	https://www.freepik.com/free-photo/red-tiles-roof-background_1189814.htm
+	
+	https://www.freepik.com/free-vector/brick-wall-realistic_1537617.htm
 
+	https://www.freepik.com/free-vector/slot-machines-collection_804649.htm
+	
+	https://opengameart.org/content/the-battle-for-wesnoth-water-animation
 
 License: MIT
